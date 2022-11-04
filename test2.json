@@ -1,0 +1,548 @@
+{
+  "13-09-2022": {
+    "majorTitles": [
+      "Top 5 Parts with Maximum Loss",
+      "Top 5 Parts with Actual Production",
+      "Top 5 Parts with Maximum prod per hour",
+      "Top 5 parts with Least Production Per Hour",
+      "Top 5 parts with Maximum MC hours loss",
+      "Top 5 parts with Least MC hours loss",
+      "Top 5 Parts with Maximum Quantity Required",
+      "Top 5 Parts with Maximum Quantity Achieved"
+    ],
+    "majors": [
+      {
+        "max_lossqty": [
+          {
+            "loss_qty": 248.92,
+            "partname": "6-BLVR-LP-RLY"
+          },
+          {
+            "loss_qty": 88.13,
+            "partname": "BiEDKO 66-45 Body"
+          },
+          {
+            "loss_qty": 81.95,
+            "partname": "BT-6 BPED-RP-SPL"
+          },
+          {
+            "loss_qty": 59.67,
+            "partname": "8 SN"
+          },
+          {
+            "loss_qty": 52.0,
+            "partname": "INTERMEDIATE FLANGE"
+          }
+        ]
+      },
+      {
+        "max_actual_prod_time": [
+          {
+            "actual_prod_time": 9.35,
+            "partname": "8 SN"
+          },
+          {
+            "actual_prod_time": 9.35,
+            "partname": "6 FON "
+          },
+          {
+            "actual_prod_time": 9.35,
+            "partname": "SPL-NDKO 6L"
+          },
+          {
+            "actual_prod_time": 9.35,
+            "partname": "6-BLVR-LP-RLY"
+          },
+          {
+            "actual_prod_time": 9.35,
+            "partname": "SEM-22-12 RP"
+          }
+        ]
+      },
+      {
+        "max_prod_per_hr": [
+          {
+            "partname": "4 SN",
+            "prod_per_hr": 60.0
+          },
+          {
+            "partname": "6 SN",
+            "prod_per_hr": 45.0
+          },
+          {
+            "partname": "6-BLVR-LP-RLY",
+            "prod_per_hr": 27.69
+          },
+          {
+            "partname": "BT-6 BPED-RP-SPL",
+            "prod_per_hr": 19.46
+          },
+          {
+            "partname": "BT-6 BPED-RP-SPL",
+            "prod_per_hr": 19.46
+          }
+        ]
+      },
+      {
+        "least_prod_per_hr": [
+          {
+            "partname": "12-12-4 TFRP",
+            "prod_per_hr": 5.9
+          },
+          {
+            "partname": "8-CVFR-1-2",
+            "prod_per_hr": 6.92
+          },
+          {
+            "partname": "STBR-28-28-18",
+            "prod_per_hr": 7.13
+          },
+          {
+            "partname": "STBR-28-28-18",
+            "prod_per_hr": 7.5
+          },
+          {
+            "partname": "SEM-22-12 RP",
+            "prod_per_hr": 7.68
+          }
+        ]
+      },
+      {
+        "max_loss_mc_hr": [
+          {
+            "loss_mc_hr": 8.99,
+            "partname": "6-BLVR-LP-RLY"
+          },
+          {
+            "loss_mc_hr": 8.4,
+            "partname": "BiEDKO 66-45 Body"
+          },
+          {
+            "loss_mc_hr": 4.48,
+            "partname": "8 SN"
+          },
+          {
+            "loss_mc_hr": 4.21,
+            "partname": "BT-6 BPED-RP-SPL"
+          },
+          {
+            "loss_mc_hr": 3.62,
+            "partname": "STBR-28-28-18"
+          }
+        ]
+      },
+      {
+        "least_loss_mc_hr": [
+          {
+            "loss_mc_hr": -0.29,
+            "partname": "6 FON "
+          },
+          {
+            "loss_mc_hr": -0.16,
+            "partname": "GE 8-SE SPL.BODY"
+          },
+          {
+            "loss_mc_hr": -0.13,
+            "partname": "6 SCB-AN-1"
+          },
+          {
+            "loss_mc_hr": 0.0,
+            "partname": "8-CVFR-1-2"
+          },
+          {
+            "loss_mc_hr": 0.0,
+            "partname": "ST 28"
+          }
+        ]
+      },
+      {
+        "max_qty_req": [
+          {
+            "partname": "4 SN",
+            "qty_req": 306.0
+          },
+          {
+            "partname": "6-BLVR-LP-RLY",
+            "qty_req": 258.92
+          },
+          {
+            "partname": "6 SN",
+            "qty_req": 191.25
+          },
+          {
+            "partname": "BT-6 BPED-RP-SPL",
+            "qty_req": 181.95
+          },
+          {
+            "partname": "GE 8-SE SPL.BODY",
+            "qty_req": 164.2
+          }
+        ]
+      },
+      {
+        "max_qty_achieved": [
+          {
+            "partname": "4 SN",
+            "qty_achieved": 300.0
+          },
+          {
+            "partname": "GE 8-SE SPL.BODY",
+            "qty_achieved": 167.0
+          },
+          {
+            "partname": "6 FON ",
+            "qty_achieved": 163.0
+          },
+          {
+            "partname": "6 SN",
+            "qty_achieved": 160.0
+          },
+          {
+            "partname": "6MM OD INSERT",
+            "qty_achieved": 130.0
+          }
+        ]
+      }
+    ],
+    "rows": [
+      {
+        "actual_prod_time": 9.35,
+        "cy_time": 610,
+        "loss_mc_hr": 0.88,
+        "loss_qty": 5.18,
+        "part_running": 11,
+        "partname": "12-12-4 TFRP",
+        "prod_per_hr": 5.9,
+        "programmer_busy": 0.0,
+        "qty_achieved": 50.0,
+        "qty_req": 55.18,
+        "st": 0.88
+      },
+      {
+        "actual_prod_time": 9.35,
+        "cy_time": 346,
+        "loss_mc_hr": 1.56,
+        "loss_qty": 16.28,
+        "part_running": 11,
+        "partname": "12/16 BLV-LP/RLY-2.SS",
+        "prod_per_hr": 10.4,
+        "programmer_busy": 0.0,
+        "qty_achieved": 81.0,
+        "qty_req": 97.28,
+        "st": 1.57
+      },
+      {
+        "actual_prod_time": 5.1,
+        "cy_time": 360,
+        "loss_mc_hr": 0.0,
+        "loss_qty": 0.0,
+        "part_running": 6,
+        "partname": "16-20 JCMNF Body",
+        "prod_per_hr": 10.0,
+        "programmer_busy": 0.0,
+        "qty_achieved": 51.0,
+        "qty_req": 51.0,
+        "st": 0.0
+      },
+      {
+        "actual_prod_time": 5.1,
+        "cy_time": 60,
+        "loss_mc_hr": 0.1,
+        "loss_qty": 6.0,
+        "part_running": 6,
+        "partname": "4 SN",
+        "prod_per_hr": 60.0,
+        "programmer_busy": 0.0,
+        "qty_achieved": 300.0,
+        "qty_req": 306.0,
+        "st": 0.1
+      },
+      {
+        "actual_prod_time": 9.35,
+        "cy_time": 310,
+        "loss_mc_hr": 2.46,
+        "loss_qty": 28.58,
+        "part_running": 11,
+        "partname": "6 BLVR-LP/RLY-5.CS",
+        "prod_per_hr": 11.61,
+        "programmer_busy": 0.46,
+        "qty_achieved": 80.0,
+        "qty_req": 108.58,
+        "st": 2.0
+      },
+      {
+        "actual_prod_time": 18.7,
+        "cy_time": 426,
+        "loss_mc_hr": 1.9,
+        "loss_qty": 32.06,
+        "part_running": 22,
+        "partname": "6 FON ",
+        "prod_per_hr": 33.8,
+        "programmer_busy": 0.19,
+        "qty_achieved": 284.0,
+        "qty_req": 316.06,
+        "st": 2.0
+      },
+      {
+        "actual_prod_time": 3.4,
+        "cy_time": 247,
+        "loss_mc_hr": 0.11,
+        "loss_qty": 1.55,
+        "part_running": 4,
+        "partname": "6 SCB AN-1",
+        "prod_per_hr": 14.57,
+        "programmer_busy": 0.0,
+        "qty_achieved": 48.0,
+        "qty_req": 49.55,
+        "st": 0.11
+      },
+      {
+        "actual_prod_time": 10.2,
+        "cy_time": 706,
+        "loss_mc_hr": 0.43999999999999995,
+        "loss_qty": 4.48,
+        "part_running": 12,
+        "partname": "6 SCB-AN-1",
+        "prod_per_hr": 20.4,
+        "programmer_busy": 0.0,
+        "qty_achieved": 100.0,
+        "qty_req": 104.47999999999999,
+        "st": 0.57
+      },
+      {
+        "actual_prod_time": 11.05,
+        "cy_time": 390,
+        "loss_mc_hr": 1.81,
+        "loss_qty": 44.22,
+        "part_running": 13,
+        "partname": "6 SN",
+        "prod_per_hr": 56.61,
+        "programmer_busy": 0.0,
+        "qty_achieved": 226.0,
+        "qty_req": 270.22,
+        "st": 1.81
+      },
+      {
+        "actual_prod_time": 9.35,
+        "cy_time": 130,
+        "loss_mc_hr": 8.99,
+        "loss_qty": 248.92,
+        "part_running": 11,
+        "partname": "6-BLVR-LP-RLY",
+        "prod_per_hr": 27.69,
+        "programmer_busy": 6.99,
+        "qty_achieved": 10.0,
+        "qty_req": 258.92,
+        "st": 2.0
+      },
+      {
+        "actual_prod_time": 18.7,
+        "cy_time": 480,
+        "loss_mc_hr": 2.0300000000000002,
+        "loss_qty": 30.5,
+        "part_running": 22,
+        "partname": "6MM OD INSERT",
+        "prod_per_hr": 30.0,
+        "programmer_busy": 0.0,
+        "qty_achieved": 250.0,
+        "qty_req": 280.5,
+        "st": 2.0300000000000002
+      },
+      {
+        "actual_prod_time": 4.25,
+        "cy_time": 430,
+        "loss_mc_hr": 3.29,
+        "loss_qty": 27.58,
+        "part_running": 5,
+        "partname": "8  AFRP RX",
+        "prod_per_hr": 8.37,
+        "programmer_busy": 1.29,
+        "qty_achieved": 8.0,
+        "qty_req": 35.58,
+        "st": 2.0
+      },
+      {
+        "actual_prod_time": 6.8,
+        "cy_time": 300,
+        "loss_mc_hr": 1.22,
+        "loss_qty": 14.6,
+        "part_running": 8,
+        "partname": "8 BLVR-LP/RLY-S.CS",
+        "prod_per_hr": 12.0,
+        "programmer_busy": 0.0,
+        "qty_achieved": 67.0,
+        "qty_req": 81.6,
+        "st": 1.22
+      },
+      {
+        "actual_prod_time": 1.7,
+        "cy_time": 227,
+        "loss_mc_hr": 1.2,
+        "loss_qty": 18.96,
+        "part_running": 2,
+        "partname": "8 SCF M16X1.5",
+        "prod_per_hr": 15.86,
+        "programmer_busy": 0.0,
+        "qty_achieved": 8.0,
+        "qty_req": 26.96,
+        "st": 1.2
+      },
+      {
+        "actual_prod_time": 18.7,
+        "cy_time": 540,
+        "loss_mc_hr": 4.83,
+        "loss_qty": 64.34,
+        "part_running": 22,
+        "partname": "8 SN",
+        "prod_per_hr": 26.66,
+        "programmer_busy": 2.48,
+        "qty_achieved": 185.0,
+        "qty_req": 249.34,
+        "st": 2.35
+      },
+      {
+        "actual_prod_time": 0.0,
+        "cy_time": 520,
+        "loss_mc_hr": 0.0,
+        "loss_qty": 0.0,
+        "part_running": 0,
+        "partname": "8-CVFR-1-2",
+        "prod_per_hr": 6.92,
+        "programmer_busy": 0.0,
+        "qty_achieved": 0.0,
+        "qty_req": 0.0,
+        "st": 0.0
+      },
+      {
+        "actual_prod_time": 14.45,
+        "cy_time": 370,
+        "loss_mc_hr": 6.38,
+        "loss_qty": 124.19,
+        "part_running": 17,
+        "partname": "BT-6 BPED-RP-SPL",
+        "prod_per_hr": 38.92,
+        "programmer_busy": 2.38,
+        "qty_achieved": 157.0,
+        "qty_req": 281.19,
+        "st": 4.0
+      },
+      {
+        "actual_prod_time": 9.35,
+        "cy_time": 343,
+        "loss_mc_hr": 8.4,
+        "loss_qty": 88.13,
+        "part_running": 11,
+        "partname": "BiEDKO 66-45 Body",
+        "prod_per_hr": 10.5,
+        "programmer_busy": 6.4,
+        "qty_achieved": 10.0,
+        "qty_req": 98.13,
+        "st": 2.0
+      },
+      {
+        "actual_prod_time": 15.3,
+        "cy_time": 410,
+        "loss_mc_hr": 0.9500000000000001,
+        "loss_qty": 16.689999999999998,
+        "part_running": 18,
+        "partname": "GE 8-SE SPL.BODY",
+        "prod_per_hr": 35.12,
+        "programmer_busy": 0.0,
+        "qty_achieved": 252.0,
+        "qty_req": 268.69,
+        "st": 1.11
+      },
+      {
+        "actual_prod_time": 9.35,
+        "cy_time": 520,
+        "loss_mc_hr": 5.09,
+        "loss_qty": 72.78999999999999,
+        "part_running": 11,
+        "partname": "INTERMEDIATE FLANGE",
+        "prod_per_hr": 27.86,
+        "programmer_busy": 1.47,
+        "qty_achieved": 62.0,
+        "qty_req": 134.79,
+        "st": 3.62
+      },
+      {
+        "actual_prod_time": 6.8,
+        "cy_time": 1050,
+        "loss_mc_hr": 3.88,
+        "loss_qty": 39.95,
+        "part_running": 8,
+        "partname": "SCM 28-12 RX",
+        "prod_per_hr": 30.869999999999997,
+        "programmer_busy": 0.0,
+        "qty_achieved": 30.0,
+        "qty_req": 69.95,
+        "st": 3.88
+      },
+      {
+        "actual_prod_time": 37.4,
+        "cy_time": 1680,
+        "loss_mc_hr": 5.699999999999999,
+        "loss_qty": 51.0,
+        "part_running": 44,
+        "partname": "SEM-22-12 RP",
+        "prod_per_hr": 34.76,
+        "programmer_busy": 0.0,
+        "qty_achieved": 274.0,
+        "qty_req": 325.0,
+        "st": 5.6499999999999995
+      },
+      {
+        "actual_prod_time": 9.35,
+        "cy_time": 340,
+        "loss_mc_hr": 0.28,
+        "loss_qty": 3.0,
+        "part_running": 11,
+        "partname": "SPL-NDKO 6L",
+        "prod_per_hr": 10.59,
+        "programmer_busy": 0.0,
+        "qty_achieved": 96.0,
+        "qty_req": 99.0,
+        "st": 0.28
+      },
+      {
+        "actual_prod_time": 0.0,
+        "cy_time": 460,
+        "loss_mc_hr": 0.0,
+        "loss_qty": 0.0,
+        "part_running": 0,
+        "partname": "ST 28",
+        "prod_per_hr": 7.83,
+        "programmer_busy": 0.0,
+        "qty_achieved": 0.0,
+        "qty_req": 0.0,
+        "st": 0.0
+      },
+      {
+        "actual_prod_time": 16.15,
+        "cy_time": 985,
+        "loss_mc_hr": 5.51,
+        "loss_qty": 40.6,
+        "part_running": 19,
+        "partname": "STBR-28-28-18",
+        "prod_per_hr": 14.629999999999999,
+        "programmer_busy": 1.62,
+        "qty_achieved": 78.0,
+        "qty_req": 118.6,
+        "st": 3.8899999999999997
+      },
+      {
+        "actual_prod_time": 2.55,
+        "cy_time": 440,
+        "loss_mc_hr": 0.59,
+        "loss_qty": 4.86,
+        "part_running": 3,
+        "partname": "STBR-28-28-22",
+        "prod_per_hr": 8.18,
+        "programmer_busy": 0.0,
+        "qty_achieved": 16.0,
+        "qty_req": 20.86,
+        "st": 0.59
+      }
+    ]
+  }
+}

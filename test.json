@@ -1,0 +1,753 @@
+{
+  "FC - Machine Shop": {
+    "CNC Machines": [
+      {
+        "CNC Machine - Total operable hours": [8250, 0, 0, 8250],
+        "CNC Machine - breakdown time": [84, 0, 0, 84],
+        "CNC Machine - productive time": [
+          0.8465672727272727, 0, 0, 0.8465672727272727
+        ],
+        "CNC Machine - start/changeover time": [1181.82, 0, 0, 1181.82]
+      },
+      {
+        "CNC Machine - Total operable hours": [8250, 0, 0, 8250],
+        "CNC Machine - breakdown time": [84, 0, 0, 84],
+        "CNC Machine - productive time": [
+          0.8515915151515152, 0, 0, 0.8515915151515152
+        ],
+        "CNC Machine - start/changeover time": [1140.37, 0, 0, 1140.37]
+      },
+      {
+        "CNC Machine - Total operable hours": [8580, 0, 0, 8580],
+        "CNC Machine - breakdown time": [89, 0, 0, 89],
+        "CNC Machine - productive time": [
+          0.8571678321678322, 0, 0, 0.8571678321678322
+        ],
+        "CNC Machine - start/changeover time": [1136.5, 0, 0, 1136.5]
+      },
+      {
+        "CNC Machine - Total operable hours": [8580, 0, 0, 8580],
+        "CNC Machine - breakdown time": [70, 0, 0, 70],
+        "CNC Machine - productive time": [
+          0.8601398601398601, 0, 0, 0.8601398601398601
+        ],
+        "CNC Machine - start/changeover time": [1130, 0, 0, 1130]
+      },
+      {
+        "CNC Machine - Total operable hours": [8580, 0, 0, 8580],
+        "CNC Machine - breakdown time": [90, 0, 0, 90],
+        "CNC Machine - productive time": [
+          0.8622377622377623, 0, 0, 0.8622377622377623
+        ],
+        "CNC Machine - start/changeover time": [1092, 0, 0, 1092]
+      },
+      {
+        "CNC Machine - Total operable hours": [8250, 0, 0, 8250],
+        "CNC Machine - breakdown time": [80, 0, 0, 80],
+        "CNC Machine - productive time": [
+          0.8603636363636363, 0, 0, 0.8603636363636363
+        ],
+        "CNC Machine - start/changeover time": [1072, 0, 0, 1072]
+      },
+      {
+        "CNC Machine - Total operable hours": [8580, 0, 0, 8580],
+        "CNC Machine - breakdown time": [92, 0, 0, 92],
+        "CNC Machine - productive time": [
+          0.8575757575757575, 0, 0, 0.8575757575757575
+        ],
+        "CNC Machine - start/changeover time": [1130, 0, 0, 1130]
+      },
+      {
+        "CNC Machine - Total operable hours": [7260, 0, 0, 7260],
+        "CNC Machine - breakdown time": [54, 0, 0, 54],
+        "CNC Machine - productive time": [
+          0.8517906336088155, 0, 0, 0.8517906336088155
+        ],
+        "CNC Machine - start/changeover time": [1022, 0, 0, 1022]
+      },
+      {
+        "CNC Machine - Total operable hours": [8580, 0, 0, 8580],
+        "CNC Machine - breakdown time": [78, 0, 0, 78],
+        "CNC Machine - productive time": [
+          0.8582867132867134, 0, 0, 0.8582867132867134
+        ],
+        "CNC Machine - start/changeover time": [1137.9, 0, 0, 1137.9]
+      },
+      {
+        "CNC Machine - Total operable hours": [7920, 0, 0, 7920],
+        "CNC Machine - breakdown time": [60, 0, 0, 60],
+        "CNC Machine - productive time": [
+          0.8547979797979798, 0, 0, 0.8547979797979798
+        ],
+        "CNC Machine - start/changeover time": [1090, 0, 0, 1090]
+      },
+      {
+        "CNC Machine - Total operable hours": [7920, 0, 0, 7920],
+        "CNC Machine - breakdown time": [50, 0, 0, 50],
+        "CNC Machine - productive time": [
+          0.8459595959595959, 0, 0, 0.8459595959595959
+        ],
+        "CNC Machine - start/changeover time": [1170, 0, 0, 1170]
+      },
+      {
+        "CNC Machine - Total operable hours": [8580, 0, 0, 8580],
+        "CNC Machine - breakdown time": [63, 0, 0, 63],
+        "CNC Machine - productive time": [
+          0.8599067599067599, 0, 0, 0.8599067599067599
+        ],
+        "CNC Machine - start/changeover time": [1139, 0, 0, 1139]
+      },
+      {
+        "CNC Machine - Total operable hours": [8250, 0, 0, 8250],
+        "CNC Machine - breakdown time": [59, 0, 0, 59],
+        "CNC Machine - productive time": [
+          0.8607272727272727, 0, 0, 0.8607272727272727
+        ],
+        "CNC Machine - start/changeover time": [1090, 0, 0, 1090]
+      },
+      {
+        "CNC Machine - Total operable hours": [8250, 0, 0, 8250],
+        "CNC Machine - breakdown time": [63, 0, 0, 63],
+        "CNC Machine - productive time": [
+          0.8553939393939394, 0, 0, 0.8553939393939394
+        ],
+        "CNC Machine - start/changeover time": [1130, 0, 0, 1130]
+      },
+      {
+        "CNC Machine - Total operable hours": [8580, 0, 0, 8580],
+        "CNC Machine - breakdown time": [53, 0, 0, 53],
+        "CNC Machine - productive time": [
+          0.857925407925408, 0, 0, 0.857925407925408
+        ],
+        "CNC Machine - start/changeover time": [1166, 0, 0, 1166]
+      },
+      {
+        "CNC Machine - Total operable hours": [8580, 0, 0, 8580],
+        "CNC Machine - breakdown time": [65, 0, 0, 65],
+        "CNC Machine - productive time": [
+          0.8598135198135198, 0, 0, 0.8598135198135198
+        ],
+        "CNC Machine - start/changeover time": [1137.8, 0, 0, 1137.8]
+      },
+      {
+        "CNC Machine - Total operable hours": [8250, 0, 0, 8250],
+        "CNC Machine - breakdown time": [59, 0, 0, 59],
+        "CNC Machine - productive time": [
+          0.8486060606060606, 0, 0, 0.8486060606060606
+        ],
+        "CNC Machine - start/changeover time": [1190, 0, 0, 1190]
+      }
+    ],
+    "Conventional Machines": [
+      {
+        "Conventional M/c - Total operable hrs": [4950, 0, 0, 4950],
+        "Conventional M/c - breakdown time": [76, 0, 0, 76],
+        "Conventional M/c - productive time": [
+          0.8533333333333334, 0, 0, 0.8533333333333334
+        ],
+        "Conventional M/c - start/changeover time": [650, 0, 0, 650]
+      },
+      {
+        "Conventional M/c - Total operable hrs": [4950, 0, 0, 4950],
+        "Conventional M/c - breakdown time": [76, 0, 0, 76],
+        "Conventional M/c - productive time": [
+          0.8452525252525253, 0, 0, 0.8452525252525253
+        ],
+        "Conventional M/c - start/changeover time": [690, 0, 0, 690]
+      },
+      {
+        "Conventional M/c - Total operable hrs": [5148, 0, 0, 5148],
+        "Conventional M/c - breakdown time": [69, 0, 0, 69],
+        "Conventional M/c - productive time": [
+          0.8486790986790986, 0, 0, 0.8486790986790986
+        ],
+        "Conventional M/c - start/changeover time": [710, 0, 0, 710]
+      },
+      {
+        "Conventional M/c - Total operable hrs": [5148, 0, 0, 5148],
+        "Conventional M/c - breakdown time": [60, 0, 0, 60],
+        "Conventional M/c - productive time": [
+          0.8620823620823621, 0, 0, 0.8620823620823621
+        ],
+        "Conventional M/c - start/changeover time": [650, 0, 0, 650]
+      },
+      {
+        "Conventional M/c - Total operable hrs": [5148, 0, 0, 5148],
+        "Conventional M/c - breakdown time": [53, 0, 0, 53],
+        "Conventional M/c - productive time": [
+          0.8634421134421134, 0, 0, 0.8634421134421134
+        ],
+        "Conventional M/c - start/changeover time": [650, 0, 0, 650]
+      },
+      {
+        "Conventional M/c - Total operable hrs": [4950, 0, 0, 4950],
+        "Conventional M/c - breakdown time": [90, 0, 0, 90],
+        "Conventional M/c - productive time": [
+          0.8565656565656565, 0, 0, 0.8565656565656565
+        ],
+        "Conventional M/c - start/changeover time": [620, 0, 0, 620]
+      },
+      {
+        "Conventional M/c - Total operable hrs": [5148, 0, 0, 5148],
+        "Conventional M/c - breakdown time": [54, 0, 0, 54],
+        "Conventional M/c - productive time": [
+          0.8554778554778555, 0, 0, 0.8554778554778555
+        ],
+        "Conventional M/c - start/changeover time": [690, 0, 0, 690]
+      },
+      {
+        "Conventional M/c - Total operable hrs": [4356, 0, 0, 4356],
+        "Conventional M/c - breakdown time": [28, 0, 0, 28],
+        "Conventional M/c - productive time": [
+          0.8581267217630854, 0, 0, 0.8581267217630854
+        ],
+        "Conventional M/c - start/changeover time": [590, 0, 0, 590]
+      },
+      {
+        "Conventional M/c - Total operable hrs": [5148, 0, 0, 5148],
+        "Conventional M/c - breakdown time": [65, 0, 0, 65],
+        "Conventional M/c - productive time": [
+          0.8682983682983683, 0, 0, 0.8682983682983683
+        ],
+        "Conventional M/c - start/changeover time": [613, 0, 0, 613]
+      },
+      {
+        "Conventional M/c - Total operable hrs": [4752, 0, 0, 4752],
+        "Conventional M/c - breakdown time": [85, 0, 0, 85],
+        "Conventional M/c - productive time": [
+          0.8569023569023569, 0, 0, 0.8569023569023569
+        ],
+        "Conventional M/c - start/changeover time": [595, 0, 0, 595]
+      },
+      {
+        "Conventional M/c - Total operable hrs": [4752, 0, 0, 4752],
+        "Conventional M/c - breakdown time": [67, 0, 0, 67],
+        "Conventional M/c - productive time": [
+          0.860479797979798, 0, 0, 0.860479797979798
+        ],
+        "Conventional M/c - start/changeover time": [596, 0, 0, 596]
+      },
+      {
+        "Conventional M/c - Total operable hrs": [5148, 0, 0, 5148],
+        "Conventional M/c - breakdown time": [73, 0, 0, 73],
+        "Conventional M/c - productive time": [
+          0.8556721056721057, 0, 0, 0.8556721056721057
+        ],
+        "Conventional M/c - start/changeover time": [670, 0, 0, 670]
+      },
+      {
+        "Conventional M/c - Total operable hrs": [4950, 0, 0, 4950],
+        "Conventional M/c - breakdown time": [61, 0, 0, 61],
+        "Conventional M/c - productive time": [
+          0.8604040404040404, 0, 0, 0.8604040404040404
+        ],
+        "Conventional M/c - start/changeover time": [630, 0, 0, 630]
+      },
+      {
+        "Conventional M/c - Total operable hrs": [4950, 0, 0, 4950],
+        "Conventional M/c - breakdown time": [59, 0, 0, 59],
+        "Conventional M/c - productive time": [
+          0.8486868686868687, 0, 0, 0.8486868686868687
+        ],
+        "Conventional M/c - start/changeover time": [690, 0, 0, 690]
+      },
+      {
+        "Conventional M/c - Total operable hrs": [5148, 0, 0, 5148],
+        "Conventional M/c - breakdown time": [45, 0, 0, 45],
+        "Conventional M/c - productive time": [
+          0.8550893550893551, 0, 0, 0.8550893550893551
+        ],
+        "Conventional M/c - start/changeover time": [701, 0, 0, 701]
+      },
+      {
+        "Conventional M/c - Total operable hrs": [5148, 0, 0, 5148],
+        "Conventional M/c - breakdown time": [49, 0, 0, 49],
+        "Conventional M/c - productive time": [
+          0.8603341103341103, 0, 0, 0.8603341103341103
+        ],
+        "Conventional M/c - start/changeover time": [670, 0, 0, 670]
+      },
+      {
+        "Conventional M/c - Total operable hrs": [4950, 0, 0, 4950],
+        "Conventional M/c - breakdown time": [43, 0, 0, 43],
+        "Conventional M/c - productive time": [
+          0.858989898989899, 0, 0, 0.858989898989899
+        ],
+        "Conventional M/c - start/changeover time": [655, 0, 0, 655]
+      }
+    ],
+    "months": [
+      "Apr-2021",
+      "May-2021",
+      "Jun-2021",
+      "Jul-2021",
+      "Aug-2021",
+      "Sep-2021",
+      "Oct-2021",
+      "Nov-2021",
+      "Dec-2021",
+      "Jan-2022",
+      "Feb-2022",
+      "Mar-2022",
+      "Apr-2022",
+      "May-2022",
+      "Jun-2022",
+      "Jul-2022",
+      "Aug-2022"
+    ]
+  },
+  "FC - Operations - In House Prod": {
+    "Assembly Monitoring": [
+      {
+        "Domestic": [6909, 1108, 1540, 9557],
+        "Exports": [33135, 1934, 7324, 42393],
+        "Railways": [77582, 527, 19223, 97332]
+      },
+      {
+        "Domestic": [6474, 631, 21105, 28210],
+        "Exports": [105137, 379, 17490, 123006],
+        "Railways": [120791, 925, 14089, 135805]
+      },
+      {
+        "Domestic": [5541, 1656, 16139, 23336],
+        "Exports": [7446, 1583, 1061, 10090],
+        "Railways": [120969, 1765, 12857, 135591]
+      },
+      {
+        "Domestic": [11292, 1472, 19240, 32004],
+        "Exports": [96468, 2864, 17445, 116777],
+        "Railways": [125739, 3913, 3998, 133650]
+      },
+      {
+        "Domestic": [0, 0, 0, 0],
+        "Exports": [0, 0, 0, 0],
+        "Railways": [0, 0, 0, 0]
+      },
+      {
+        "Domestic": [0, 0, 0, 0],
+        "Exports": [0, 0, 0, 0],
+        "Railways": [0, 0, 0, 0]
+      },
+      {
+        "Domestic": [0, 0, 0, 0],
+        "Exports": [0, 0, 0, 0],
+        "Railways": [0, 0, 0, 0]
+      },
+      {
+        "Domestic": [0, 0, 0, 0],
+        "Exports": [0, 0, 0, 0],
+        "Railways": [0, 0, 0, 0]
+      },
+      {
+        "Domestic": [0, 0, 0, 0],
+        "Exports": [0, 0, 0, 0],
+        "Railways": [0, 0, 0, 0]
+      },
+      {
+        "Domestic": [0, 0, 0, 0],
+        "Exports": [0, 0, 0, 0],
+        "Railways": [0, 0, 0, 0]
+      },
+      {
+        "Domestic": [0, 0, 0, 0],
+        "Exports": [0, 0, 0, 0],
+        "Railways": [0, 0, 0, 0]
+      },
+      {
+        "Domestic": [0, 0, 0, 0],
+        "Exports": [0, 0, 0, 0],
+        "Railways": [0, 0, 0, 0]
+      },
+      {
+        "Domestic": [0, 0, 0, 0],
+        "Exports": [0, 0, 0, 0],
+        "Railways": [0, 0, 0, 0]
+      },
+      {
+        "Domestic": [0, 0, 0, 0],
+        "Exports": [0, 0, 0, 0],
+        "Railways": [0, 0, 0, 0]
+      },
+      {
+        "Domestic": [0, 0, 0, 0],
+        "Exports": [0, 0, 0, 0],
+        "Railways": [0, 0, 0, 0]
+      },
+      {
+        "Domestic": [0, 0, 0, 0],
+        "Exports": [0, 0, 0, 0],
+        "Railways": [0, 0, 0, 0]
+      },
+      {
+        "Domestic": [0, 0, 0, 0],
+        "Exports": [0, 0, 0, 0],
+        "Railways": [0, 0, 0, 0]
+      }
+    ],
+    "In House Production : Clamps/Flanges": [
+      {
+        "Drilling / boring - PP and Alum Clamps": [0, 0, 0, 0],
+        "Flanges / Sleeves": [0, 0, 0, 0],
+        "Intermediate Bolt": [0, 0, 0, 0],
+        "Intermediate Plates": [0, 0, 0, 0],
+        "Top Plates": [0, 0, 0, 0],
+        "Weld Plates": [0, 0, 0, 0]
+      },
+      {
+        "Drilling / boring - PP and Alum Clamps": [0, 0, 0, 0],
+        "Flanges / Sleeves": [0, 0, 0, 0],
+        "Intermediate Bolt": [0, 0, 0, 0],
+        "Intermediate Plates": [0, 0, 0, 0],
+        "Top Plates": [0, 0, 0, 0],
+        "Weld Plates": [0, 0, 0, 0]
+      },
+      {
+        "Drilling / boring - PP and Alum Clamps": [0, 0, 0, 0],
+        "Flanges / Sleeves": [0, 0, 0, 0],
+        "Intermediate Bolt": [0, 0, 0, 0],
+        "Intermediate Plates": [0, 0, 0, 0],
+        "Top Plates": [0, 0, 0, 0],
+        "Weld Plates": [0, 0, 0, 0]
+      },
+      {
+        "Drilling / boring - PP and Alum Clamps": [0, 0, 2340, 2340],
+        "Flanges / Sleeves": [0, 0, 0, 0],
+        "Intermediate Bolt": [0, 0, 0, 0],
+        "Intermediate Plates": [0, 0, 0, 0],
+        "Top Plates": [0, 0, 0, 0],
+        "Weld Plates": [0, 0, 0, 0]
+      },
+      {
+        "Drilling / boring - PP and Alum Clamps": [0, 0, 1100, 1100],
+        "Flanges / Sleeves": [0, 0, 0, 0],
+        "Intermediate Bolt": [0, 0, 0, 0],
+        "Intermediate Plates": [0, 0, 0, 0],
+        "Top Plates": [0, 0, 0, 0],
+        "Weld Plates": [0, 0, 0, 0]
+      },
+      {
+        "Drilling / boring - PP and Alum Clamps": [0, 0, 1600, 1600],
+        "Flanges / Sleeves": [0, 0, 0, 0],
+        "Intermediate Bolt": [0, 0, 0, 0],
+        "Intermediate Plates": [0, 0, 0, 0],
+        "Top Plates": [0, 0, 0, 0],
+        "Weld Plates": [0, 0, 0, 0]
+      },
+      {
+        "Drilling / boring - PP and Alum Clamps": [0, 0, 1350, 1350],
+        "Flanges / Sleeves": [0, 0, 0, 0],
+        "Intermediate Bolt": [0, 0, 0, 0],
+        "Intermediate Plates": [0, 0, 0, 0],
+        "Top Plates": [0, 0, 0, 0],
+        "Weld Plates": [0, 0, 0, 0]
+      },
+      {
+        "Drilling / boring - PP and Alum Clamps": [0, 0, 667, 667],
+        "Flanges / Sleeves": [0, 0, 0, 0],
+        "Intermediate Bolt": [0, 0, 0, 0],
+        "Intermediate Plates": [0, 0, 0, 0],
+        "Top Plates": [0, 0, 0, 0],
+        "Weld Plates": [0, 0, 0, 0]
+      },
+      {
+        "Drilling / boring - PP and Alum Clamps": [0, 0, 930, 930],
+        "Flanges / Sleeves": [0, 0, 0, 0],
+        "Intermediate Bolt": [0, 0, 0, 0],
+        "Intermediate Plates": [0, 0, 0, 0],
+        "Top Plates": [0, 0, 0, 0],
+        "Weld Plates": [0, 0, 0, 0]
+      },
+      {
+        "Drilling / boring - PP and Alum Clamps": [0, 0, 1550, 1550],
+        "Flanges / Sleeves": [0, 0, 0, 0],
+        "Intermediate Bolt": [0, 0, 0, 0],
+        "Intermediate Plates": [0, 0, 0, 0],
+        "Top Plates": [0, 0, 0, 0],
+        "Weld Plates": [0, 0, 0, 0]
+      },
+      {
+        "Drilling / boring - PP and Alum Clamps": [0, 0, 263, 263],
+        "Flanges / Sleeves": [0, 0, 0, 0],
+        "Intermediate Bolt": [0, 0, 0, 0],
+        "Intermediate Plates": [0, 0, 0, 0],
+        "Top Plates": [0, 0, 0, 0],
+        "Weld Plates": [0, 0, 0, 0]
+      },
+      {
+        "Drilling / boring - PP and Alum Clamps": [0, 0, 0, 0],
+        "Flanges / Sleeves": [0, 0, 0, 0],
+        "Intermediate Bolt": [0, 0, 0, 0],
+        "Intermediate Plates": [0, 0, 0, 0],
+        "Top Plates": [0, 0, 0, 0],
+        "Weld Plates": [0, 0, 0, 0]
+      },
+      {
+        "Drilling / boring - PP and Alum Clamps": [0, 470, 0, 470],
+        "Flanges / Sleeves": [0, 0, 0, 0],
+        "Intermediate Bolt": [0, 0, 0, 0],
+        "Intermediate Plates": [0, 0, 0, 0],
+        "Top Plates": [0, 0, 0, 0],
+        "Weld Plates": [0, 0, 0, 0]
+      },
+      {
+        "Drilling / boring - PP and Alum Clamps": [0, 593, 0, 593],
+        "Flanges / Sleeves": [0, 0, 0, 0],
+        "Intermediate Bolt": [0, 0, 0, 0],
+        "Intermediate Plates": [0, 0, 0, 0],
+        "Top Plates": [0, 0, 0, 0],
+        "Weld Plates": [0, 0, 0, 0]
+      },
+      {
+        "Drilling / boring - PP and Alum Clamps": [0, 260, 0, 260],
+        "Flanges / Sleeves": [0, 0, 0, 0],
+        "Intermediate Bolt": [0, 0, 0, 0],
+        "Intermediate Plates": [0, 0, 0, 0],
+        "Top Plates": [0, 0, 0, 0],
+        "Weld Plates": [0, 0, 0, 0]
+      },
+      {
+        "Drilling / boring - PP and Alum Clamps": [0, 3300, 0, 3300],
+        "Flanges / Sleeves": [0, 0, 0, 0],
+        "Intermediate Bolt": [0, 0, 0, 0],
+        "Intermediate Plates": [0, 0, 0, 0],
+        "Top Plates": [0, 0, 0, 0],
+        "Weld Plates": [0, 0, 0, 0]
+      },
+      {
+        "Drilling / boring - PP and Alum Clamps": [0, 1560, 0, 1560],
+        "Flanges / Sleeves": [0, 0, 0, 0],
+        "Intermediate Bolt": [0, 0, 0, 0],
+        "Intermediate Plates": [0, 0, 0, 0],
+        "Top Plates": [0, 0, 0, 0],
+        "Weld Plates": [0, 0, 0, 0]
+      }
+    ],
+    "In House Production : Fittings": [
+      {
+        "Back Ferrules": [3673, 0, 0, 3673],
+        "Bodies": [25664.66, 0, 0, 25664.66],
+        "Front Ferrules": [17031, 0, 0, 17031],
+        "Nut blanks on Traub/Bandsaw": [15309, 0, 0, 15309],
+        "Nuts in-house complete": [7777, 0, 0, 7777]
+      },
+      {
+        "Back Ferrules": [7813, 0, 0, 7813],
+        "Bodies": [26251, 0, 0, 26251],
+        "Front Ferrules": [7267, 0, 0, 7267],
+        "Nut blanks on Traub/Bandsaw": [13494, 0, 0, 13494],
+        "Nuts in-house complete": [5103, 0, 0, 5103]
+      },
+      {
+        "Back Ferrules": [6815, 0, 0, 6815],
+        "Bodies": [27530, 0, 0, 27530],
+        "Front Ferrules": [6450, 0, 0, 6450],
+        "Nut blanks on Traub/Bandsaw": [14390, 0, 0, 14390],
+        "Nuts in-house complete": [4790, 0, 0, 4790]
+      },
+      {
+        "Back Ferrules": [3430, 0, 0, 3430],
+        "Bodies": [25790, 0, 0, 25790],
+        "Front Ferrules": [5220, 0, 0, 5220],
+        "Nut blanks on Traub/Bandsaw": [11590, 0, 0, 11590],
+        "Nuts in-house complete": [6920, 0, 0, 6920]
+      },
+      {
+        "Back Ferrules": [3220, 0, 0, 3220],
+        "Bodies": [26351, 0, 0, 26351],
+        "Front Ferrules": [6720, 0, 0, 6720],
+        "Nut blanks on Traub/Bandsaw": [14296, 0, 0, 14296],
+        "Nuts in-house complete": [6309, 0, 0, 6309]
+      },
+      {
+        "Back Ferrules": [1027, 0, 0, 1027],
+        "Bodies": [23769, 0, 0, 23769],
+        "Front Ferrules": [16420, 0, 0, 16420],
+        "Nut blanks on Traub/Bandsaw": [14109, 0, 0, 14109],
+        "Nuts in-house complete": [7398, 0, 0, 7398]
+      },
+      {
+        "Back Ferrules": [1198, 0, 0, 1198],
+        "Bodies": [26704.17, 0, 0, 26704.17],
+        "Front Ferrules": [7606, 0, 0, 7606],
+        "Nut blanks on Traub/Bandsaw": [12764, 0, 0, 12764],
+        "Nuts in-house complete": [5003, 0, 0, 5003]
+      },
+      {
+        "Back Ferrules": [2403, 0, 0, 2403],
+        "Bodies": [22321, 0, 0, 22321],
+        "Front Ferrules": [4940, 0, 0, 4940],
+        "Nut blanks on Traub/Bandsaw": [12103, 0, 0, 12103],
+        "Nuts in-house complete": [7832, 0, 0, 7832]
+      },
+      {
+        "Back Ferrules": [2240, 0, 0, 2240],
+        "Bodies": [27285, 0, 0, 27285],
+        "Front Ferrules": [3390, 0, 0, 3390],
+        "Nut blanks on Traub/Bandsaw": [15110, 0, 0, 15110],
+        "Nuts in-house complete": [8474, 0, 0, 8474]
+      },
+      {
+        "Back Ferrules": [2351, 0, 0, 2351],
+        "Bodies": [25759.5, 0, 0, 25759.5],
+        "Front Ferrules": [4930, 0, 0, 4930],
+        "Nut blanks on Traub/Bandsaw": [15974, 0, 0, 15974],
+        "Nuts in-house complete": [7675, 0, 0, 7675]
+      },
+      {
+        "Back Ferrules": [390, 0, 0, 390],
+        "Bodies": [26287, 0, 0, 26287],
+        "Front Ferrules": [6690, 0, 0, 6690],
+        "Nut blanks on Traub/Bandsaw": [16498, 0, 0, 16498],
+        "Nuts in-house complete": [7332, 0, 0, 7332]
+      },
+      {
+        "Back Ferrules": [2140, 0, 0, 2140],
+        "Bodies": [27890, 0, 0, 27890],
+        "Front Ferrules": [7968, 0, 0, 7968],
+        "Nut blanks on Traub/Bandsaw": [16694, 0, 0, 16694],
+        "Nuts in-house complete": [8398, 0, 0, 8398]
+      },
+      {
+        "Back Ferrules": [1000, 0, 0, 1000],
+        "Bodies": [26803, 0, 0, 26803],
+        "Front Ferrules": [7675, 0, 0, 7675],
+        "Nut blanks on Traub/Bandsaw": [15894, 0, 0, 15894],
+        "Nuts in-house complete": [5601, 0, 0, 5601]
+      },
+      {
+        "Back Ferrules": [1350, 0, 0, 1350],
+        "Bodies": [27003, 0, 0, 27003],
+        "Front Ferrules": [6250, 0, 0, 6250],
+        "Nut blanks on Traub/Bandsaw": [16320, 0, 0, 16320],
+        "Nuts in-house complete": [6228, 0, 0, 6228]
+      },
+      {
+        "Back Ferrules": [5710, 0, 0, 5710],
+        "Bodies": [27604, 0, 0, 27604],
+        "Front Ferrules": [9048, 0, 0, 9048],
+        "Nut blanks on Traub/Bandsaw": [16121, 0, 0, 16121],
+        "Nuts in-house complete": [7661, 0, 0, 7661]
+      },
+      {
+        "Back Ferrules": [3693, 0, 0, 3693],
+        "Bodies": [26930, 0, 0, 26930],
+        "Front Ferrules": [6390, 0, 0, 6390],
+        "Nut blanks on Traub/Bandsaw": [15789, 0, 0, 15789],
+        "Nuts in-house complete": [8340, 0, 0, 8340]
+      },
+      {
+        "Back Ferrules": [3940, 0, 0, 3940],
+        "Bodies": [27711, 0, 0, 27711],
+        "Front Ferrules": [6720, 0, 0, 6720],
+        "Nut blanks on Traub/Bandsaw": [16790, 0, 0, 16790],
+        "Nuts in-house complete": [8340, 0, 0, 8340]
+      }
+    ],
+    "In House Production : Valves": [
+      {
+        "Ball Valves Bodies/EC'S": [0, 881.5, 0, 881.5],
+        "Check Valve Bodies": [0, 30, 0, 30],
+        "Needle Valve Bodies": [0, 351, 0, 351]
+      },
+      {
+        "Ball Valves Bodies/EC'S": [0, 454, 0, 454],
+        "Check Valve Bodies": [0, 140, 0, 140],
+        "Needle Valve Bodies": [0, 1311, 0, 1311]
+      },
+      {
+        "Ball Valves Bodies/EC'S": [0, 750, 0, 750],
+        "Check Valve Bodies": [0, 130, 0, 130],
+        "Needle Valve Bodies": [0, 990, 0, 990]
+      },
+      {
+        "Ball Valves Bodies/EC'S": [0, 670, 0, 670],
+        "Check Valve Bodies": [0, 60, 0, 60],
+        "Needle Valve Bodies": [0, 1200, 0, 1200]
+      },
+      {
+        "Ball Valves Bodies/EC'S": [0, 960, 0, 960],
+        "Check Valve Bodies": [0, 190, 0, 190],
+        "Needle Valve Bodies": [0, 1230, 0, 1230]
+      },
+      {
+        "Ball Valves Bodies/EC'S": [0, 211, 0, 211],
+        "Check Valve Bodies": [0, 56, 0, 56],
+        "Needle Valve Bodies": [0, 1852, 0, 1852]
+      },
+      {
+        "Ball Valves Bodies/EC'S": [0, 583, 0, 583],
+        "Check Valve Bodies": [0, 0, 0, 0],
+        "Needle Valve Bodies": [0, 1008.67, 0, 1008.67]
+      },
+      {
+        "Ball Valves Bodies/EC'S": [0, 1115, 0, 1115],
+        "Check Valve Bodies": [0, 303, 0, 303],
+        "Needle Valve Bodies": [0, 2102, 0, 2102]
+      },
+      {
+        "Ball Valves Bodies/EC'S": [0, 960, 0, 960],
+        "Check Valve Bodies": [0, 260, 0, 260],
+        "Needle Valve Bodies": [0, 1195, 0, 1195]
+      },
+      {
+        "Ball Valves Bodies/EC'S": [0, 446, 0, 446],
+        "Check Valve Bodies": [0, 75, 0, 75],
+        "Needle Valve Bodies": [0, 1732, 0, 1732]
+      },
+      {
+        "Ball Valves Bodies/EC'S": [0, 323, 0, 323],
+        "Check Valve Bodies": [0, 170, 0, 170],
+        "Needle Valve Bodies": [0, 1529, 0, 1529]
+      },
+      {
+        "Ball Valves Bodies/EC'S": [0, 244, 0, 244],
+        "Check Valve Bodies": [0, 25, 0, 25],
+        "Needle Valve Bodies": [0, 192, 0, 192]
+      },
+      {
+        "Ball Valves Bodies/EC'S": [0, 1293, 0, 1293],
+        "Check Valve Bodies": [0, 30, 0, 30],
+        "Needle Valve Bodies": [0, 308, 0, 308]
+      },
+      {
+        "Ball Valves Bodies/EC'S": [0, 126, 0, 126],
+        "Check Valve Bodies": [0, 113, 0, 113],
+        "Needle Valve Bodies": [0, 882, 0, 882]
+      },
+      {
+        "Ball Valves Bodies/EC'S": [0, 130, 0, 130],
+        "Check Valve Bodies": [0, 88, 0, 88],
+        "Needle Valve Bodies": [0, 1314, 0, 1314]
+      },
+      {
+        "Ball Valves Bodies/EC'S": [0, 230, 0, 230],
+        "Check Valve Bodies": [0, 120, 0, 120],
+        "Needle Valve Bodies": [0, 1270, 0, 1270]
+      },
+      {
+        "Ball Valves Bodies/EC'S": [0, 260, 0, 260],
+        "Check Valve Bodies": [0, 60, 0, 60],
+        "Needle Valve Bodies": [0, 913, 0, 913]
+      }
+    ],
+    "months": [
+      "Apr-2021",
+      "May-2021",
+      "Jun-2021",
+      "Jul-2021",
+      "Aug-2021",
+      "Sep-2021",
+      "Oct-2021",
+      "Nov-2021",
+      "Dec-2021",
+      "Jan-2022",
+      "Feb-2022",
+      "Mar-2022",
+      "Apr-2022",
+      "May-2022",
+      "Jun-2022",
+      "Jul-2022",
+      "Aug-2022"
+    ]
+  }
+}

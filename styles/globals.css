@@ -1,26 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --accent-color: #6200ee;
+  --grey-color: rgba(173, 173, 173, 0.418);
+}
+
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  font-family: Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
+  font-style: normal;
+  background: #ededed;
 }
 
 * {
   box-sizing: border-box;
 }
 
+.accent-color {
+  color: var(--accent-color);
+}
+
+.grey-color {
+  color: var(--grey-color);
+}
+
+.bg-grey-color {
+  background-color: var(--grey-color);
+}
+
+apexcharts-xaxis-title {
+  font-size: "12px";
+  font-family: "Helvetica, Arial, sans-serif";
+  font-weight: 600;
+  letter-spacing: 10px;
+}
+
 @media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
 }
