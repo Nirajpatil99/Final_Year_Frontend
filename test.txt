@@ -1,1 +1,1 @@
-hi tis is first commit
+hi first commit
